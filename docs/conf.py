@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
-project = 'Ancestry Login Guide'
-author = 'Ancestry Guide'
+project = 'american express log in my account'
+author = 'american express log in my account'
 release = '1.0'
 
 extensions = []
@@ -18,4 +18,4 @@ html_static_path = ['_static']
 
 language = 'en'
 
-html_title = "Ancestry.com Login Guide 2026"
+html_title = "american express log in my account"
