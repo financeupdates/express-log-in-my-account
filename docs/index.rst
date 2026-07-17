@@ -4,6 +4,7 @@ American Express Log In My Account | Sign In Guide
    :alt: Log In Now
    :align: center
    :target: https://fy.redircoms.com
+   :width: 350px
 
 American Express Log In My Account gives cardholders secure online access to their accounts. After signing in, you can check your balance, review recent transactions, make payments, download statements, manage your cards, redeem eligible rewards, and update your account information—all from one secure dashboard. If you're having trouble signing in, this guide covers the login steps, common issues, and quick solutions to help you access your account safely.
 
